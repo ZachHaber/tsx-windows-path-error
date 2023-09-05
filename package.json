@@ -1,0 +1,16 @@
+{
+  "name": "tsx-character-issue",
+  "version": "1.0.0",
+  "description": "An example project for demonstrating an issue with paths in tsx on windows",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "watch": "tsx watch --clear-screen=false index.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tsx": "^3.12.8",
+    "typescript": "^5.2.2"
+  }
+}
